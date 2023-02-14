@@ -1,0 +1,65 @@
+.link1 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 240px;
+}
+
+.link2 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 360px;
+}
+
+.link3 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 480px;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    margin-top: -21px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    height: 120px;
+}
+
+.links{
+    text-align: center;
+}
+
+.pic {
+    width: 600px;
+    height: auto;
+    position: absolute;
+    top: 180px;
+    left: 60px;
+}
+
+.desc {
+    position: relative;
+    margin-left: 720px;
+    margin-top: 60px; 
+}
+
+.text {
+    margin-left: 720px;
+}
+
+.list {
+    margin-left: 700px;
+}
+
+.steps {
+    position: absolute;
+    top: 680px;
+}
